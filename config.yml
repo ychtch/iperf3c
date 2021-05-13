@@ -2,7 +2,7 @@
 test-length: 5
 test-interval: 30
 server-port: 5201
-grafana-address: grafana
+grafana-address: 192.168.1.47
 grafana-port: 2003
 tsdb-download-prefix: bandwidth.download
 tsdb-upload-prefix: bandwidth.upload
