@@ -1,5 +1,5 @@
 ---
-test-length: 5
+test-length: 10
 test-interval: 30
 server-port: 5201
 grafana-address: 192.168.1.47
